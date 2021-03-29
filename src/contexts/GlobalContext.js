@@ -10,7 +10,7 @@ export const GlobalProvider = ({ children }) => {
   const [dateOfBirth, setDateOfBirth] = useState(new Date());
   const [email, setEmail] = useState();
   const [plateNumber, setPlateNumber] = useState();
-  const [claims, setClaims] = useState(false);
+  const [claims, setClaims] = useState();
   const [licence, setLicence] = useState(0);
   const [maker, setMaker] = useState();
   const [model, setModel] = useState();

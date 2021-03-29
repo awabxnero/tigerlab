@@ -112,7 +112,7 @@ export default function SecondPage() {
           // start loading
           setLoading(true);
           // check if the claims questions is answered
-          if (claims) {
+          if (claims !== null) {
             submit();
           } else {
             // show error and change yes and no button colors to red
