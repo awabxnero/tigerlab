@@ -1,0 +1,24 @@
+<svg id="svg-button" xmlns="http://www.w3.org/2000/svg" width="77" height="77" viewBox="0 0 77 77">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a9ff03;
+      }
+
+      .cls-2 {
+        fill: #c58fff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M73.86,26.37V54.12h-37V76.5L.6,40.24,36.86,4V26.37Z"/>
+  <g id="svg-button" data-name="svg-button">
+    <path id="svg-button" data-name="svg-button" class="cls-2" d="M76.5,22.62V50.38h-37V72.76L3.24,36.5,39.5.24V22.62Z"/>
+    <path class="cls-3" d="M39.5,23.62h36V49.38h-37v21L4.65,36.5,38.5,2.65v21Z"/>
+  </g>
+</svg>
