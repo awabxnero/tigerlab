@@ -49,6 +49,6 @@
   },
   "devDependencies": {
     "@testing-library/react-hooks": "^5.1.0",
-    "history": "^5.0.0"
+    "": "^5.0.0"
   }
 }
